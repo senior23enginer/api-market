@@ -1,0 +1,4 @@
+
+                                                                         `---'
+${application.title} ${application.version}
+Powered by Zemsania v1.0 ${spring-boot.version}
